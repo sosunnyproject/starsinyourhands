@@ -5,7 +5,7 @@ ITP summer camp 2017 showcase project
 - Arduino 3 pots to p5 folder
 - organizingSketch2 folder
 
-## 3 potentiometers → Arduino → Processing → QLC → Lighting fixtures
+## 5 potentiometers → Arduino → Processing → QLC → Lighting fixtures
 - processing_5pots_movinglights folder
 - ARduino_5k_potpin5 folder
 
